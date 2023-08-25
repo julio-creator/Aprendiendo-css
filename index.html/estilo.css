@@ -1,0 +1,50 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.h2-class b:hover {
+	color:red;
+}
+
+section {
+	outline: 5px solid blueviolet;
+	position: relative;
+}
+
+div {
+	width: 100px;
+	height: 100px;
+	color: black;
+	margin-bottom: 10px;
+	text-align: center;
+	
+}
+
+.ejemplo-1 {
+	background-color: black ;
+	color: aqua;
+	display: inline-block;
+	position: absolute;
+	inset: 0;
+}
+
+.ejemplo-2 {
+	background-color: blue;
+	display: inline-block;
+	position: absolute;
+	inset: 0;
+	margin: 0 0 auto auto;
+}
+
+/* .ejemplo-3 {
+	background-color:yellow ;
+	display: inline-block;
+}
+.ejemplo-4 {
+	background-color: teal ;
+	display: inline-block;
+} */
+
+
+
